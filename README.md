@@ -16,7 +16,7 @@ to print a text file line by line.
 2. `python clp.py textfile.txt`
   * Use --reverse to reverse read output
   * Use --asort for ascending sort
-  * Use --rsort for descending sort
+  * Use --dsort for descending sort
   * Use no option/flag for unsorted display
 
  
