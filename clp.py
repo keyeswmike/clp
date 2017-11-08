@@ -14,7 +14,7 @@ parser.add_argument('--asort', dest='asort', action='store_const',
 
 ## Create '--dsort' option/flag
 parser.add_argument('--dsort', dest='dsort', action='store_const',
-                      const=True, help='boolean for ascending sorting')
+                      const=True, help='boolean for descending sorting')
 
 ## Create '--reverse' option/flag
 parser.add_argument('--reverse', dest='reverse', action='store_const',
